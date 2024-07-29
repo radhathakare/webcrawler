@@ -1,4 +1,4 @@
-# Java web crawler [![Build Status](https://secure.travis-ci.org/sitespeedio/crawler.png?branch=master)](http://travis-ci.org/sitespeedio/crawler)
+# Java web crawler
 
 Simple java (1.6) crawler to crawl web pages on one and same domain. If your page is redirected to another domain, that page is not picked up EXCEPT if it is the first URL that is tested. Basicly you can do this:
 <ul>
